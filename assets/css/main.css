@@ -1350,6 +1350,7 @@ body, input, select, textarea {
   color: #666;
   font-family: "MuseoSlab-500";
   font-size: 16pt;
+	letter-spacing: 1px;
   font-weight: 300;
   line-height: 1.65em;
 }
